@@ -5,4 +5,4 @@ Os dados analisados pertencem ao database “Daily Netflix Top 10 Movie/TV Show 
 
 A base de dados comporta dez variáveis, sendo elas:  As of, Rank, Year to Date Rank, Last Week Rank, Title, Type, Netflix Exclusive, Netflix Release Date, Days In Top 10 e Viewership Score.
 
-Informações referentes os resultados do projeto você encontra clicando [aqui] https://allisson-santos-curriculo.notion.site/Em-desenvolvimento-Identifica-o-de-outliers-em-uma-s-rie-do-ndice-de-Confian-a-Empresarial-886e10f833cb43288abd242561f31647 ou no arquivo Jupyter Notebook deste repositório.
+Informações referentes aos resultados do projeto você encontra clicando [aqui](https://allisson-santos-curriculo.notion.site/Em-desenvolvimento-Identifica-o-de-outliers-em-uma-s-rie-do-ndice-de-Confian-a-Empresarial-886e10f833cb43288abd242561f31647) ou no arquivo Jupyter Notebook deste repositório.
